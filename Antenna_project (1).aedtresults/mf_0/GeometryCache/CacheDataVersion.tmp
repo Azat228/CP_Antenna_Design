@@ -1,5 +1,5 @@
 $begin 'CacheDataVersion'
-	DataVersion=-1
+	DataVersion=34
 $end 'CacheDataVersion'
 $begin 'VariableValues'
 	h='4mm'
@@ -12,7 +12,7 @@ $begin 'VariableValues'
 	r2='1.67mm'
 	r3='0.5mm'
 	dummy='a +offset'
-	offset='6.1mm'
+	offset='8mm'
 	Patch_pos_x='gnw/2 - pw/2'
 	Patch_pos_y='gnl/2 - pl/2'
 $end 'VariableValues'
