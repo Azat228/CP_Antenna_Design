@@ -1,0 +1,7 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='a=\'40mm\' dummy=\'46.100000000000001mm\' gnl=\'80mm\' gnw=\'80mm\' h=\'4mm\' offset=\'6.0999999999999996mm\' Patch_pos_x=\'27.5mm\' Patch_pos_y=\'27.5mm\' pl=\'25mm\' pw=\'25mm\' r1=\'1.8mm\' r2=\'1.6699999999999999mm\' r3=\'0.5mm\''
+		Status=true
+		FileName='VI4DFE2911217766799834.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'
