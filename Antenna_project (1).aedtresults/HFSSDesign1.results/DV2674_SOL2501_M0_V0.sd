@@ -587,19 +587,19 @@ $begin 'freq'
 $end 'freq'
 $begin 'freq'
 	ForceSubrangeSplit=false
-	Frequency=5300000000
+	Frequency=5475000000
 	DataType='None'
 	$begin 'SMatrix'
 		$begin 'FullMatrix'
 			m=2
 			n=2
 			$begin 'r0'
-				c(0.213187705635925, -0.0243222699972633)
-				c(-0.177284930252378, 0.0330667542497518)
+				c(0.38435793041724, -0.059492631858704)
+				c(-0.179267135464871, 0.1066696580911)
 			$end 'r0'
 			$begin 'r1'
-				c(-0.177284930252378, 0.0330667542497518)
-				c(0.213369388279118, -0.0252314673459948)
+				c(-0.179267135464871, 0.1066696580911)
+				c(0.383990624701476, -0.0608154922974556)
 			$end 'r1'
 		$end 'FullMatrix'
 	$end 'SMatrix'
@@ -612,7 +612,7 @@ $begin 'freq'
 		$begin 'B_matrix'
 			Rows(0, 1)
 			Cols(0, 1)
-			Values(c(0, -2.70943460642), c(0, -2.67347461625236))
+			Values(c(0, -2.79889706983953), c(0, -2.76174972150599))
 		$end 'B_matrix'
 		$begin 'C_matrix'
 			Rows()
@@ -625,7 +625,7 @@ $begin 'freq'
 			Values()
 		$end 'DmI_matrix'
 	$end 'Port ABCD'
-	EnergyError=1482139.16946108
+	EnergyError=0
 	IeEnergyError=0
 	$begin 'PortImpedance'
 		MatrixSize=2
@@ -693,8 +693,8 @@ $begin 'freq'
 		$begin 'Zwave'
 			n=2
 			$begin 'r0'
-				c(259.769265911119, 0)
-				c(259.861377973869, 0)
+				c(259.769265911139, 0)
+				c(259.861377973881, 0)
 			$end 'r0'
 		$end 'Zwave'
 		$begin 'TerminalPMatrix'

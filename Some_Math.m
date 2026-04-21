@@ -13,7 +13,7 @@
 f0 = 5.3e9;             % Center frequency (Hz)
 epsilon_r = 1.07;       % Dielectric constant of substrate (Air/Foam)
 h = 4.0e-3;             % Substrate height (m)
-c = physconst('Light'); % Speed of light (m/s)
+c = 3*10^8; % Speed of light (m/s)
 % -------------------------------------------------------------------------
 
 %% 2. Patch Width (W) Calculation

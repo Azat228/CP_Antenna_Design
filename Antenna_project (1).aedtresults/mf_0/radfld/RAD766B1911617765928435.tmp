@@ -10,7 +10,23 @@ $begin 'RFSM'
 		$end 'SetupSolnEntry'
 		$begin 'SetupSolnEntry'
 			Key(ParentID=22, VersID=42, ParentID=2498, VersID=0, Context='[0:0]', DesVarn='a=\'40mm\' dummy=\'48mm\' gnl=\'80mm\' gnw=\'80mm\' h=\'4mm\' offset=\'8mm\' Patch_pos_x=\'27.5mm\' Patch_pos_y=\'27.5mm\' pl=\'25mm\' pw=\'25mm\' r1=\'1.8mm\' r2=\'1.6699999999999999mm\' r3=\'0.5mm\'', IntrVarn='Freq=\'5.2999999999999998GHz\'')
-			SetupSolnFBOFile='725D31872177670290331.tmp'
+			SetupSolnFBOFile='6C7011036177674257615.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=22, VersID=42, ParentID=2501, VersID=0, Context='[0:0]', DesVarn='a=\'40mm\' dummy=\'48mm\' gnl=\'80mm\' gnw=\'80mm\' h=\'4mm\' offset=\'8mm\' Patch_pos_x=\'27.5mm\' Patch_pos_y=\'27.5mm\' pl=\'25mm\' pw=\'25mm\' r1=\'1.8mm\' r2=\'1.6699999999999999mm\' r3=\'0.5mm\'', IntrVarn='Freq=\'5.1624999999999996GHz\'')
+			SetupSolnFBOFile='6B2911036177674247610.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=22, VersID=42, ParentID=2501, VersID=0, Context='[0:0]', DesVarn='a=\'40mm\' dummy=\'48mm\' gnl=\'80mm\' gnw=\'80mm\' h=\'4mm\' offset=\'8mm\' Patch_pos_x=\'27.5mm\' Patch_pos_y=\'27.5mm\' pl=\'25mm\' pw=\'25mm\' r1=\'1.8mm\' r2=\'1.6699999999999999mm\' r3=\'0.5mm\'', IntrVarn='Freq=\'5.2874999999999996GHz\'')
+			SetupSolnFBOFile='6B2911036177674247611.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=22, VersID=42, ParentID=2501, VersID=0, Context='[0:0]', DesVarn='a=\'40mm\' dummy=\'48mm\' gnl=\'80mm\' gnw=\'80mm\' h=\'4mm\' offset=\'8mm\' Patch_pos_x=\'27.5mm\' Patch_pos_y=\'27.5mm\' pl=\'25mm\' pw=\'25mm\' r1=\'1.8mm\' r2=\'1.6699999999999999mm\' r3=\'0.5mm\'', IntrVarn='Freq=\'5.4124999999999996GHz\'')
+			SetupSolnFBOFile='6B2911036177674247612.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=22, VersID=42, ParentID=2501, VersID=0, Context='[0:0]', DesVarn='a=\'40mm\' dummy=\'48mm\' gnl=\'80mm\' gnw=\'80mm\' h=\'4mm\' offset=\'8mm\' Patch_pos_x=\'27.5mm\' Patch_pos_y=\'27.5mm\' pl=\'25mm\' pw=\'25mm\' r1=\'1.8mm\' r2=\'1.6699999999999999mm\' r3=\'0.5mm\'', IntrVarn='Freq=\'5.4749999999999996GHz\'')
+			SetupSolnFBOFile='6B2911036177674247613.tmp'
 		$end 'SetupSolnEntry'
 	$end 'SetupSolns'
 	$begin 'MonostaticRcsSolns'
